@@ -1,6 +1,6 @@
-# CSCE1015 - Hochstetler
+# CSCE1015
 Assignment repository for UNT CSCE1015
-## js2709
+## EUID
 js2709
-## Professor Germain
+## Professor
 Professor Germain
